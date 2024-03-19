@@ -16,3 +16,7 @@ Plan of action:
 On the first day, I will create a readme file and set up my project.
 On the Second day, I will think of my UI and website blueprint.
 On the Third day, will make a low fid prototype.
+
+UI Design looks like:
+Search bar, Navigational bar, Home Page, At last some details where I mention social media handles and contact us information. And a feature to direct connect with watsapp and some necessary forms as per required.
+😅 Website blueprint is created in rough(on paper)🫢.[so sorry can't mention/draw here 🫣]
